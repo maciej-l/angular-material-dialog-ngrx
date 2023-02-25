@@ -1,1 +1,1 @@
-# angular-materila-dialog-ngrx
+# Angular Materila dialog with Ngrx state
